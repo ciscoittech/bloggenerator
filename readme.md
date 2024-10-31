@@ -250,5 +250,3 @@ If you'd like to contribute to the project, feel free to submit pull requests or
 This project is licensed under the **MIT License**.
 
 ---
-
-Feel free to customize the README as needed. Let me know if you need further assistance or additional information!
