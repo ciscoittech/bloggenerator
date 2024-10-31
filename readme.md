@@ -1,6 +1,3 @@
-Certainly! Here's a README file that explains how to use the `BookWriter` script. This guide will walk you through the prerequisites, installation steps, and how to run and interact with the script.
-
----
 
 # BookWriter README
 
